@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepika 
-- 👀 I’m interested in Software Development/ Machine Learning 
+- 👀 I’m interested in Data Engineering/ Machine Learning 
 - 🌱 I’m currently working at Virtusa
 - 📫 Reach me @ rameshdeepika08@gmail.com
 
